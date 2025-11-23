@@ -1,6 +1,6 @@
 
 body {
-	background-image:				url(images/background3.jpg);
+	background-image:				url(background3.jpg);
 	background-position:			center;
 	font-family:					Arial, sans-serif;
 }
@@ -28,7 +28,7 @@ p {
 }
 
 .background-profile-image {
-    background-image:               url(logo/logo1.png);
+    background-image:               url(logo1.png);
     background-position:            left;
 	background-color: 				black;
 	max-width:						100%;
@@ -73,3 +73,4 @@ a:hover {
 a:active {
     color:                          #04d9ff;
 }
+
