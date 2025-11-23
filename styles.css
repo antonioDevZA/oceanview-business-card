@@ -1,0 +1,75 @@
+
+body {
+	background-image:				url(images/background3.jpg);
+	background-position:			center;
+	font-family:					Arial, sans-serif;
+}
+
+.full-name {
+	margin-top:						50px;
+}
+
+p {
+	margin-top:						5px;
+    margin-bottom:					5px;
+}
+
+.business-card {
+	width:							400px;
+	background-color:				#00002b;
+    color: white;
+	padding:						33px 20px;
+	margin-top:						100px;
+	margin-bottom:					100px;
+	text-align:						center;
+	font-size:						16px;
+	margin-left:					auto;
+	margin-right:					auto;
+}
+
+.background-profile-image {
+    background-image:               url(logo/logo1.png);
+    background-position:            left;
+	background-color: 				black;
+	max-width:						100%;
+	height:						    310px;
+    border:                         2px solid #04d9ff;
+    margin-left:                    7px;
+    margin-right:                   7px;
+    
+}
+
+.profile-image {
+	position:						relative;
+	right:							131px;
+    top:                        	225px;
+	width:							125px;
+	height:							128px;
+	border-radius:					50%;
+	border:							2px solid #04d9ff;
+    justify-content: center;
+    
+}
+
+
+.social-media a {
+    padding: 5px;
+}
+
+
+a {
+    color:                          white;
+	/*text-decoration:				none;*/
+}
+
+a:visited {
+    color:                          white;
+}
+
+a:hover {
+    color:                          #04d9ff;
+}
+
+a:active {
+    color:                          #04d9ff;
+}
